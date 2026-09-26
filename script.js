@@ -126,7 +126,7 @@ function comprar() {
     // CAMBIA ESTE NÚMERO POR TU WHATSAPP
 
     window.open(
-        "https://wa.me/593XXXXXXXXX?text=" +
+        "https://wa.me/593992806433?text=" +
         mensaje,
         "_blank"
     );
